@@ -1,0 +1,70 @@
+body{
+  background-image: url(background.jpg);
+  background-size: cover;
+  background-color:yellow;
+
+}
+.container-principale{
+  background: #000000;
+  opacity: 0.7;
+}
+.container{
+  width: 500px;
+  margin: auto;
+}
+.logo{
+width: 200px;
+margin-left:100px;
+}
+.titolo{
+  color:lime;
+
+
+}
+.container2{
+  background-color: lime;
+  border-color: green;
+  padding: 10px;
+
+}
+.navigazione{
+  margin-left: 450px;
+
+}
+.container3{
+  margin: 5px;
+  color: white;
+}
+.titolo2{
+  display: inline-block;
+
+}
+.primasbarra{
+  width: 400px;
+  height: 20px;
+  background-color: orange;
+  margin-right: 1100px
+
+  }
+.titolo3{
+  display: inline-block;
+}
+.secondasbarra{
+  width: 600px;
+  height: 20px;
+  background-color: purple;
+  margin-right: 900px;
+}
+.titolo4{
+  display: inline-block;
+}
+.terzasbarra{
+  width: 200px;
+  height: 20px;
+  background-color: red;
+  margin-right: 1300px;
+
+}
+footer{
+  color: white;
+}
